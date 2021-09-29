@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qvDvwdr8djnTsWT1SQKaJWWzDnalw830iOg3CRYbW2jzf8HlCNbJVLTnh718crSUbmdpEeRWS7Duhmw8PvRSZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\redsh\\OneDrive\\Área de Trabalho\\Revisao\\MegaSena\\MegaSena\\MegaSena.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\redsh\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
